@@ -1,5 +1,10 @@
 # flutter_chat_app
 
+Inspired by : https://dribbble.com/shots/17486130-Chat-App
+
+[![Screenshot-1644810096.png](https://i.postimg.cc/9QcQKYmn/Screenshot-1644810096.png)](https://postimg.cc/9rN2qTqd) [![Screenshot-1644810101.png](https://i.postimg.cc/x1dSLxTn/Screenshot-1644810101.png)](https://postimg.cc/1fbTQKqj)
+
+
 A new Flutter project.
 
 ## Getting Started
