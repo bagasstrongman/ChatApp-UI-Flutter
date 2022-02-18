@@ -1,12 +1,12 @@
 # flutter_chat_app
 
-Inspired by : https://dribbble.com/shots/17486130-Chat-App
-
-
+Design inpiration by : https://dribbble.com/shots/17486130-Chat-App
 
 | Main Chat     | Detail Chat      |  
 | ------------- | -------------    | 
 | [![Screenshot-1644810096.png](https://i.postimg.cc/9QcQKYmn/Screenshot-1644810096.png)](https://postimg.cc/9rN2qTqd) |  [![Screenshot-1644810101.png](https://i.postimg.cc/x1dSLxTn/Screenshot-1644810101.png)](https://postimg.cc/1fbTQKqj) | 
+
+Font use in this App Concept : ([fonts.google.com](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies)) & ([fonts.google.com](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif))
 
 
 
